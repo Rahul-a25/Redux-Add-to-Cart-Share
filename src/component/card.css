@@ -1,0 +1,12 @@
+.maincard{
+
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+.card{
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px gray;
+    border: 2px solid red;
+}
